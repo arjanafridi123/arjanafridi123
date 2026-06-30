@@ -8,7 +8,7 @@ Passionate about transforming data into actionable insights through analytics, v
 - 💻 Skilled in **Python, SQL, Excel, Power BI, Pandas, NumPy, Streamlit**
 - 📈 Interested in Data Analytics, Business Intelligence, and AI
 - 📫 Email: arjanafridi123@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/your-linkedin
+- 🔗 LinkedIn: https://www.linkedin.com/in/md-arjan-afridi-7288b7233
 - ⚡ Passionate about data analytics, business intelligence, and solving real-world problems with data. Currently expanding my skills toward Data Science and Machine Learning.
 
 ---
