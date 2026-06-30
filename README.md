@@ -7,7 +7,7 @@ Passionate about transforming data into actionable insights through analytics, v
 - 🌱 Currently learning **Data Science & Machine Learning**
 - 💻 Skilled in **Python, SQL, Excel, Power BI, Pandas, NumPy, Streamlit**
 - 📈 Interested in Data Analytics, Business Intelligence, and AI
-- 📫 Reach me: your-email@gmail.com
+- 📫 Email: arjanafridi123@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/your-linkedin
 - ⚡ Passionate about data analytics, business intelligence, and solving real-world problems with data. Currently expanding my skills toward Data Science and Machine Learning.
 
