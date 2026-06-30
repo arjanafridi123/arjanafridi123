@@ -9,6 +9,7 @@ Passionate about transforming data into actionable insights through analytics, v
 - 📈 Interested in Data Analytics, Business Intelligence, and AI
 - 📫 Reach me: your-email@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/your-linkedin
+- ⚡ Passionate about data analytics, business intelligence, and solving real-world problems with data. Currently expanding my skills toward Data Science and Machine Learning.
 
 ---
 
@@ -24,15 +25,3 @@ Passionate about transforming data into actionable insights through analytics, v
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 
 ---
-
-# 🚀 Featured Projects
-
-- 🚢 Toronto Island Ferry Analytics
-- 🍫 Nassau Candy Profitability Analysis
-- 🏨 Hotel Booking Analysis
-- 🏠 Airbnb NYC Analysis
-- 🐱🐶 Cats vs Dogs Power BI Dashboard
-
----
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
