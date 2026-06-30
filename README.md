@@ -2,8 +2,6 @@
 
 # 📊 Data Analyst | Aspiring Data Scientist
 
-Passionate about transforming data into actionable insights through analytics, visualization, and machine learning.
-
 - 🌱 Currently learning **Data Science & Machine Learning**
 - 💻 Skilled in **Python, SQL, Excel, Power BI, Pandas, NumPy, Streamlit**
 - 📈 Interested in Data Analytics, Business Intelligence, and AI
